@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tshifhiwa03
+- 👋 Hi, I’m @Tshifhiwa
 - 👀 I’m interested in web design and embedded systems
 - 🌱 I’m currently learning object orientated programming and full stack web development
 - 💞️ I’m looking to collaborate on ...
